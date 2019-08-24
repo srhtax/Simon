@@ -1,1 +1,1 @@
-# Simon, to eventually create a robot, humanoid one to take care of elderly, one for being with special needs kids, age 7 - 13, companion, instructor for language, music, stories, coding, and games, and finaly a pet for the elderly.
+# Simon, to eventually create a robot, humanoid one to take care of elderly, one for being with special needs kids, age 7 - 13, companion, instructor for language, music, stories, codeing, and games, and finaly a pet for the elderly.
